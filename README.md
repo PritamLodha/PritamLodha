@@ -4,14 +4,6 @@
 
 <a href="#top"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&lines=%F0%9F%93%8A+Transforming+Raw+Data+into+Clear+Insights;%F0%9F%94%8D+Analyst+%7C+Problem+Solver+%7C+Learner;%E2%9C%A8+Every+Dataset+Has+a+Story+%E2%80%94+I+Help+Tell+It" alt="Typing SVG" /></a>
 
-<br/><br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=PritamLodha&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/PritamLodha)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/PritamLodha?style=for-the-badge&color=58A6FF&labelColor=161b22&label=FOLLOWERS)](https://github.com/PritamLodha?tab=followers)
-&nbsp;
-[![GitHub stars](https://img.shields.io/github/stars/PritamLodha?style=for-the-badge&color=58A6FF&labelColor=161b22&label=TOTAL+STARS)](https://github.com/PritamLodha)
-
 </div>
 
 <br/>
