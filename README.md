@@ -77,6 +77,7 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
     &nbsp;<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
     &nbsp;<img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white"/>
+    &nbsp;<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
   </td>
 </tr>
 <tr>
@@ -85,6 +86,7 @@
     <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
     &nbsp;<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
     &nbsp;<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+    &nbsp;<img src="https://img.shields.io/badge/SMOTE-imbalanced--learn-8A2BE2?style=flat-square&logo=python&logoColor=white"/>
   </td>
 </tr>
 <tr>
@@ -94,6 +96,14 @@
     &nbsp;<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
     &nbsp;<img src="https://img.shields.io/badge/Seaborn-4878CF?style=flat-square&logo=python&logoColor=white"/>
     &nbsp;<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+    &nbsp;<img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white"/>
+  </td>
+</tr>
+<tr>
+  <td align="center"><strong>🚀 Deployment</strong></td>
+  <td>
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+    &nbsp;<img src="https://img.shields.io/badge/Streamlit_Cloud-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
   </td>
 </tr>
 <tr>
@@ -110,7 +120,71 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
     &nbsp;<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
     &nbsp;<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
+    &nbsp;<img src="https://img.shields.io/badge/DB_Browser_SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
   </td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ══════════════════════════════════════════════════ -->
+<!--               PROJECTS                            -->
+<!-- ══════════════════════════════════════════════════ -->
+
+## 🚀 &nbsp;Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 💳 &nbsp;[Loan Risk Intelligence System](https://github.com/PritamLodha/loan-risk-analysis)
+
+<img src="https://img.shields.io/badge/ROC--AUC-0.97-brightgreen?style=flat-square"/> &nbsp;<img src="https://img.shields.io/badge/Records-2M%2B-58A6FF?style=flat-square"/> &nbsp;<img src="https://img.shields.io/badge/Live-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+
+End-to-end credit risk platform on 2M+ LendingClub records. Builds a **FICO-style scorecard (300–850)**, 4-tier risk segmentation, and Expected Loss (PD × LGD × EAD) calculation.
+
+**Stack:** `Python` `Scikit-learn` `SMOTE` `Streamlit` `Pandas`
+
+🔗 **[Live Demo →](https://loan-risk-analysis-system.streamlit.app)**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📉 &nbsp;[Customer Churn Prediction](https://github.com/PritamLodha/customer-churn-prediction)
+
+<img src="https://img.shields.io/badge/ROC--AUC-0.97-brightgreen?style=flat-square"/> &nbsp;<img src="https://img.shields.io/badge/Recall-89%25-58A6FF?style=flat-square"/> &nbsp;<img src="https://img.shields.io/badge/Records-7K%2B-orange?style=flat-square"/>
+
+ML pipeline predicting telecom customer churn. Benchmarks 4 models, handles class imbalance with **SMOTE**, and delivers risk segmentation with actionable retention strategies.
+
+**Stack:** `Python` `Random Forest` `GridSearchCV` `Pandas` `Seaborn`
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🛒 &nbsp;[Walmart Sales Intelligence Dashboard](https://github.com/PritamLodha/walmart-sales-dashboard)
+
+<img src="https://img.shields.io/badge/Rows-421K-58A6FF?style=flat-square"/> &nbsp;<img src="https://img.shields.io/badge/Stores-45-orange?style=flat-square"/> &nbsp;<img src="https://img.shields.io/badge/Live-Dashboard-22c55e?style=flat-square"/>
+
+Analyses 421K rows of weekly Walmart sales data (2010–2012). Features SQL queries, Python EDA, and a fully **interactive HTML/CSS/JS dashboard** with store-type filters and holiday lift analysis.
+
+**Stack:** `Python` `SQL` `SQLite` `Pandas` `Chart.js` `HTML/CSS/JS`
+
+🔗 **[Open Dashboard →](https://github.com/PritamLodha/walmart-sales-dashboard)**
+
+</td>
+
 </tr>
 </table>
 
